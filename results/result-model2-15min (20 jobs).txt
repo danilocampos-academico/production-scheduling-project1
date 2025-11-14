@@ -1,0 +1,50 @@
+RESULTADOS
+Modelo: Assignment and Positional Date Variables [F4]
+Solver: HiGHS
+Tempo limite: 15.00 minutos
+Função objetivo (min sum wj*Cj): 22427.0
+Gap relativo: 78.28%
+
+Tempo de conclusão de cada job (Cj):
+C[1] = 217.0
+C[2] = 51.0
+C[3] = 588.0
+C[4] = 362.0
+C[5] = 688.0
+C[6] = 522.0
+C[7] = 451.0
+C[8] = 24.0
+C[9] = 837.0
+C[10] = 5.0
+C[11] = 912.0
+C[12] = 274.0
+C[13] = 320.0
+C[14] = 2.0
+C[15] = 121.0
+C[16] = 745.0
+C[17] = 68.0
+C[18] = 33.0
+C[19] = 151.0
+C[20] = 176.0
+
+Tempo de conclusão de cada posição (ck):
+c[1] = 2.0
+c[2] = 5.0
+c[3] = 24.0
+c[4] = 33.0
+c[5] = 51.0
+c[6] = 68.0
+c[7] = 121.0
+c[8] = 151.0
+c[9] = 176.0
+c[10] = 217.0
+c[11] = 274.0
+c[12] = 320.0
+c[13] = 362.0
+c[14] = 451.0
+c[15] = 522.0
+c[16] = 588.0
+c[17] = 688.0
+c[18] = 745.0
+c[19] = 837.0
+c[20] = 912.0
