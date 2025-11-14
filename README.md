@@ -13,7 +13,7 @@
 
 ## Descrição do Projeto
 
-Este projeto implementa e compara dois modelos matemáticos clássicos de sequenciamento em máquina única, ambos com objetivo de minimizar a soma ponderada dos tempos de conclusão.
+Este projeto implementa e compara dois modelos matemáticos de sequenciamento em máquina única, ambos com objetivo de minimizar a soma ponderada dos tempos de conclusão.
 
 Os modelos são:
 
