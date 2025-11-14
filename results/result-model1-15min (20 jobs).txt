@@ -1,7 +1,7 @@
 RESULTADOS
 Modelo: Completion time variables [F1]
 Solver: HiGHS
-Tempo limite: 15 minutos
+Tempo limite: 15.00 minutos
 Função objetivo (min sum wj*Cj): 21422.0
 Gap relativo: 55.81%
 
